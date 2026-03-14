@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "type": "force",
+  "type": "optional",
   "download_url": "https://github.com/Retailware/RSPLTunnelAgentServiceSetup/releases/download/V1.2.0/RSPLTunnelServiceSetup.exe",
   "release_notes": "Critical security fix"
 }
